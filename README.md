@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning ...<br>
 • Advanced CSS and JavaScript<br>
 • Java Basic<br>
-• Godot<br>
 
 <img align="center" alt="JoaoHTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> • <img align="center" alt="JoaoCSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> • <img align="center" alt="JoaoJS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> •  <img align="center" alt="JoaoPSD" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> • <img img align="center" alt="JoaoIll" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> • <img align="center" alt="JoaoVSC" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> • <img img align="center" alt="JoaoFigma" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
